@@ -1,6 +1,6 @@
 {
   "name": "tweener",
-  "description": "Connect your Tweener account and ask about your racquet-sports life: your schedule, match history, ratings and rating history, head-to-heads against an opponent, ranking standings, match notes and workout stats. Find open plays near you and set up auto-match so Tweener suggests partners. Covers tennis, padel, pickleball and beach tennis.",
+  "description": "Tweener is a multi-sport rating platform for tennis, padel, pickleball and beach tennis. Connect your account and ask Claude about your own game \u2014 your schedule, match history, ratings and rating history, head-to-heads against an opponent, ranking standings, match notes and workout stats \u2014 find open plays near you, and set up auto-match so Tweener suggests partners.",
   "version": "1.0.0",
   "author": {
     "name": "Tweener",

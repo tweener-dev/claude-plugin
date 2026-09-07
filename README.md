@@ -27,6 +27,14 @@ On claude.ai, Claude Desktop or ChatGPT you don't need this plugin — add
 `https://mcp.tweener.club/mcp` as a custom connector instead. This plugin is the
 Claude Code packaging of that same connector.
 
+## Privacy
+
+The connector reads only your own Tweener data, and reading versus acting on
+your behalf are separate permissions you grant when you connect. Disconnecting
+in your assistant's settings revokes access immediately. See the
+[privacy policy](https://tweener.club/PRIVACY_POLICY.html) — "Connecting an AI
+Assistant" under Artificial Intelligence.
+
 ## Support
 
 support@tweener.club

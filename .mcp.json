@@ -1,0 +1,6 @@
+{
+  "tweener": {
+    "type": "http",
+    "url": "https://mcp.tweener.club/mcp"
+  }
+}

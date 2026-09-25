@@ -10,7 +10,8 @@ beach tennis.
 ```
 
 The first Tweener question opens a browser to sign in to your Tweener account and
-approve access. Claude only ever sees your own data.
+approve access, and you choose there whether Claude may only read your data or also
+act on it. Claude only ever sees your own data.
 
 ## What you can ask
 
@@ -20,6 +21,9 @@ approve access. Claude only ever sees your own data.
 - "Any open plays near me on Saturday morning?"
 - "Set up auto-match for padel."
 - "What did I write in my notes after last week's match?"
+- "What does my coaching plan say I should work on?"
+- "What's my scouting report on Bruno?"
+- "Save a note that Bruno's backhand breaks down under pace."
 
 ## Other Claude surfaces
 

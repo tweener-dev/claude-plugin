@@ -35,13 +35,14 @@ Claude Code packaging of that same connector.
 
 The connector acts as you and sees only what your account can already see in
 Tweener: your own data — profile, matches, ratings, schedule, training, the
-private notes you wrote, and your AI coaching plan and scouting reports — plus what other players make visible to you, such as
-names, ratings and records their privacy settings allow, open plays and ranking
-standings. It never reads another player's private data. Reading versus acting
-on your behalf are separate permissions you grant when you connect, and
-disconnecting in your assistant's settings revokes access immediately. See the
-[privacy policy](https://tweener.club/PRIVACY_POLICY.html) — "Connected AI
-Assistants" under Information Sharing and Disclosure.
+private notes you wrote, and your AI coaching plan and scouting reports — plus
+what other players make visible to you, such as names, ratings and records their
+privacy settings allow, open plays and ranking standings. It never reads another
+player's private data. Reading versus acting on your behalf are separate
+permissions you grant when you connect, and disconnecting in your assistant's
+settings revokes access immediately. See the [privacy
+policy](https://tweener.club/PRIVACY_POLICY.html) — "Connected AI Assistants"
+under Information Sharing and Disclosure.
 
 ## Support
 

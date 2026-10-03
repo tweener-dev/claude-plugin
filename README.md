@@ -24,6 +24,7 @@ act on it. Claude sees only what your account can already see in Tweener.
 - "What does my coaching plan say I should work on?"
 - "What's my scouting report on Bruno?"
 - "Save a note that Bruno's backhand breaks down under pace."
+- "Create a doubles padel game at Clube Pinheiros on Saturday at 9am."
 
 ## Other Claude surfaces
 
